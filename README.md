@@ -31,3 +31,4 @@ print("Swapped values are:",a,b)
 ![gitlogo](sam12.png)
 
 ## Result:
+Thus the circulate the values of N varaibles has been calculated.
